@@ -1,4 +1,11 @@
-body{
-    background-color: blueviolet
+header{
+    background-color: rgb(58, 4, 94)
     color: black;
+    display:flex;
+}
+.cabeçalho-imagem{
+width:20%;
+}
+.cabeçalho-lista-item{
+    display:inline-block
 }
